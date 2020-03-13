@@ -1,6 +1,3 @@
-// https://www.udemy.com/course/react-redux/learn/lecture/12586858#overview
-// #163
-
 import React from 'react';
 import PostList from './PostList';
 
